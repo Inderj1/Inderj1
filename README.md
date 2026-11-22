@@ -6,7 +6,7 @@ Most of my day-to-day work is for internal teams at Spectrum, so that code stays
 
 - **Fraud investigation platform**: agents prepare cited case files for 40+ fraud analysts, and two people approve every outcome.
 - **Billing AI analyst**: a React/Next.js chat app where analysts ask billing questions in plain English. First demo in a month, live in four.
-- **Outage response agents**: they find the root cause and propose a fix, and an engineer approves it. Time to restore service fell 70%.
+- **Outage response agents**: they find the root cause and propose a fix, and an engineer approves it.
 - **[Boppity](https://apps.apple.com/us/app/boppity/id6829179100)**: my own iOS learning app for ages 0 to 5. Works offline, collects no data.
 - **[chat-with-data](https://github.com/Inderj1/chat-with-data)**: Claude-style chat with natural-language-to-SQL over BigQuery and logs.
 
